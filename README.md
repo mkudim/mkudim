@@ -7,7 +7,7 @@ Aspiring Data Analyst | Python • SQL • Power BI
 
 ## 💼 My Projects
 
-- under maintanence 🚧
+- under maintenance 🚧
 
 ## 🧰 Skills
 
