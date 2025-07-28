@@ -1,4 +1,4 @@
-## Hello, World! I'm Maria, a passionate data analyst.
+# Hello, World! I'm Maria, a passionate data analyst 👩‍💻
 
 <!--
 **mkudim/mkudim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
