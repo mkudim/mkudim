@@ -7,8 +7,7 @@ Aspiring Data Analyst | Python • SQL • Power BI
 
 ## 💼 My Projects
 
-- 📊 [Project Name](https://github.com/...) — short description  
-- 🧮 [Another Project](https://github.com/...) — short description
+- under maintanence 🚧
 
 ## 🧰 Skills
 
