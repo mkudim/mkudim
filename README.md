@@ -15,7 +15,7 @@ Python, SQL, pandas, matplotlib, Power BI, Excel
 
 ## 📫 Contact
 
-[Telegram](https://t.me/Maria_Kudimova) • [Email](mailto:kudimova.mm@gmail.com)
+[Telegram](https://t.me/Maria_Kudimova) • [LinkedIn](https://www.linkedin.com/in/maria-kudimova/) • [Email](mailto:kudimova.mm@gmail.com)
 
 
 <!--
