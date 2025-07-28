@@ -1,5 +1,3 @@
-# Welcome to my GitHub!
-
 ## Hello, World! I'm Maria, a passionate data analyst.
 
 <!--
