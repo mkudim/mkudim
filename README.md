@@ -1,5 +1,5 @@
 # Hi, I'm Maria 👋  
-Aspiring Data Analyst | Python • SQL • Power BI
+Data Analytics Enthusiast | From supply chain & product management to data-driven decision making | Excel • SQL • Python • Power BI
 
 🎯 Learning data analytics and building my first projects  
 📊 I enjoy working with data and creating visualizations  
