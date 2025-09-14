@@ -1,5 +1,5 @@
 # Hi, I'm Maria 👋  
-Aspiring Data Analyst | Python • SQL • Power BI
+Exploring data analytics and building a project portfolio ranging from exploratory analysis and visualization to forecasting models. With a strong background in procurement and assortment management, I am particularly interested in sales, demand, and process analysis. Actively transferring practical business experience into data analytics through hands-on projects and competitions.
 
 🎯 Learning data analytics and building my first projects  
 📊 I enjoy working with data and creating visualizations  
