@@ -11,7 +11,7 @@ Exploring data analytics and building a project portfolio ranging from explorato
 
 ## 🧰 Skills
 
-Python, SQL, Pandas, Matplotlib, Power BI, Excel
+Excel, SQL, Python, Pandas, Matplotlib, Power BI
 
 ## 📫 Contact
 
